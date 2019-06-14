@@ -1,0 +1,236 @@
+{
+     "oneNav":[
+        {
+         "name":"智能手机",
+         "href":""
+        },
+        {
+         "name":"可穿戴设备",
+         "href":""
+        },
+        {
+        "name":"个人电脑",
+        "href":""
+         },
+        {
+        "name":"智能家居",
+        "href":""
+        },
+        {
+        "name":"配件",
+       "href":""
+        }
+     ],
+     "twoNav":[
+
+        {
+            "left":[{
+                "href":"",
+                "src":"../images/headerImages/two1-1.jpg",
+                "con":"Galaxy S10+"
+            },{
+                "href":"",
+                "src":"../images/headerImages/two1-2.jpg",
+                "con":"Galaxy S10"
+            },{
+                "href":"",
+                "src":"../images/headerImages/two1-3.jpg",
+                "con":"Galaxy A70"
+            },{
+                "href":"",
+                "src":"../images/headerImages/two1-4.jpg",
+                "con":"Galaxy A60"
+            }
+         
+            
+        ],
+            "right":[{
+                "href":"",
+                "con":"Galaxy S序列"
+                },{
+                    "href":"",
+                    "con":"Galaxy Note序列"
+                },
+            { "href":"",
+                "con":"Galaxy A序列"},
+            { "href":"",
+                "con":"三星 W序列"}
+        ]
+        },
+
+        {   
+            "left":[{
+                "href":"",
+                "src":"../images/headerImages/two2-1.jpg",
+                "con":"Galaxy Watch Active"
+            },{
+                "href":"",
+                "src":"../images/headerImages/two2-2.jpg",
+                "con":"Samsung Calaxy Buds"
+            },{
+                "href":"",
+                "src":"../images/headerImages/two2-3.jpg",
+                "con":"Samsung Galaxy Watch LTE版 46mm钛泽银"
+            },{
+                "href":"",
+                "src":"../images/headerImages/two2-4.jpg",
+                "con":"Samsung Galaxy Watch 蓝牙版46mm钛泽银"
+            }
+         
+            
+        ],
+            "right":[]
+        },
+
+
+        {
+            
+                "left":[{
+                    "href":"",
+                    "src":"../images/headerImages/two3-1.jpg",
+                    "con":"Galaxy Tab S4 4G"
+                },{
+                    "href":"",
+                    "src":"../images/headerImages/two3-2.jpg",
+                    "con":"盖乐世 Tab E"
+                },{
+                    "href":"",
+                    "src":"../images/headerImages/two3-3.jpg",
+                    "con":"三星笔记本星耀 930XBE-K03"
+                },{
+                    "href":"",
+                    "src":"../images/headerImages/two3-4.jpg",
+                    "con":"三星笔记本星耀 Pen PRO 930SBE-K01"
+                }
+             
+                
+            ],
+                "right":[{"title":"笔记本电脑",
+                    "con":[
+                        {"href":"",
+                        "con":"玄龙MR"
+                        },
+                        {"href":"",
+                        "con":"玄龙骑士"
+                        },
+                        {"href":"",
+                        "con":"Notebook 9"
+                        },
+                        {"href":"",
+                        "con":"Notebook 5"
+                        },
+                        {"href":"",
+                        "con":"Notebook 3"
+                        }
+                        ]
+                    },
+                    {"title":"平板电脑",
+                    "con":[{
+                        "href":"",
+                        "con":"Galaxy Tab S"
+                    },{
+                        "href":"",
+                       "con":"Galaxy Tab A"
+                    },{
+                      "href":"",
+                      "con":"盖乐世 Tab E"
+                    }]}
+                ]
+        },
+
+
+
+        {    
+            "left":[{
+                "href":"",
+                "src":"../images/headerImages/two4-1.jpg",
+                "con":"智能网关"
+            },{
+                "href":"",
+                "src":"../images/headerImages/two4-2.jpg",
+                "con":"智能插座"
+            },{
+                "href":"",
+                "src":"../images/headerImages/two4-3.jpg",
+                "con":"智能空气检测仪"
+            },{
+                "href":"",
+                "src":"../images/headerImages/two4-4.jpg",
+                "con":"智能遥控器"
+            }
+         
+            
+        ],
+            "right":[
+                {
+                    "href":"",
+                    "con":"健康生活类"   
+                },
+                {
+                    "href":"",
+                    "con":"便携生活类"   
+                },
+                {
+                    "href":"",
+                    "con":"安全智能类"   
+                },
+                {
+                    "href":"",
+                    "con":"时尚酷玩类"   
+                }
+
+            ]
+        },
+
+
+
+        {
+            
+                "left":[{
+                    "href":"",
+                    "src":"../images/headerImages/two5-1.jpg",
+                    "con":"Galaxy S10+ 硅胶保护壳"
+                },{
+                    "href":"",
+                    "src":"../images/headerImages/two5-2.jpg",
+                    "con":"Galaxy S10 LDE智能背光保护壳"
+                },{
+                    "href":"",
+                    "src":"../images/headerImages/two5-3.jpg",
+                    "con":"三星 旅行充电器（Type C）"
+                },{
+                    "href":"",
+                    "src":"../images/headerImages/two5-4.jpg",
+                    "con":"Galaxy S10+ 立式保护壳"
+                }
+             
+                
+            ],
+                "right":[
+                    {
+                        "href":"",
+                        "con":"保护类"   
+                    },
+                    {
+                        "href":"",
+                        "con":"电源类"   
+                    },
+                    {
+                        "href":"",
+                        "con":"音频类"   
+                    },
+                    {
+                        "href":"",
+                        "con":"存储类"   
+                    },
+                    {
+                        "href":"",
+                        "con":"连接类"   
+                    }
+
+                ]
+        }
+
+
+     ]
+}

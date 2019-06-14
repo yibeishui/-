@@ -1,0 +1,23 @@
+
+.header-top{
+    background:#f2f2f2;
+    height: 36px;
+    font-size: 16px;
+}
+.header-top-right span{
+    font-size: 10px;
+}
+.header-top-left{
+    height: 36px;
+    line-height: 36px;
+}
+.header-top-right{
+    height: 36px;
+    line-height: 36px;
+}
+.header-top-left:hover a{
+    color: #1328a0;
+}
+.header-top-right:hover a{
+    color: #1328a0;
+}

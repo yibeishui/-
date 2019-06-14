@@ -1,0 +1,91 @@
+
+.zixun-big{
+    display: none;
+    width: 307px;
+    height: 467px;
+    z-index: 99999;
+    position: fixed;
+    top: 187px;
+    right: 11px;
+
+}
+.zixun-big-top{
+    height: 47px;
+    background: #1428a0;
+    color: #ffffff;
+}
+.zixun-big-top span:nth-child(1){
+    line-height: 47px;
+    font-size: 14px;
+    margin-left: 14px;
+}
+.zixun-big-top span:nth-child(2){
+margin-right: 5px;
+font-size: 11px;
+vertical-align: top;
+}
+.zixun-big-top span:nth-child(3){
+    margin-right: 10px;
+    vertical-align: top;
+}
+.zixun-bottom{
+    overflow: hidden;
+background: #ffffff;
+}
+.zixun-bottom h3{
+    font-size: 19px;
+    line-height: 19px;
+    margin-top: 17px;
+    margin-bottom: 14px;
+    text-align: center;
+
+}
+.zixun-bottom>p{
+    font-size: 12px;
+    line-height: 12px;
+    color: #636363;
+    margin-bottom: 14px;
+    text-align: center;
+}
+/* .zixun-bottom ul{
+margin: 0 auto;
+} */
+.zixun-bottom ul li{
+    width: 284px;
+    height: 84px;
+    margin: 0 auto;
+    margin-bottom: 14px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    border: 1px solid #cccccc;
+}
+
+.zixun-bottom-graph{
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  background: #ebebeb; 
+  margin-left: 18px;
+  margin-right: 22px;
+  text-align: center;
+ 
+}
+.zixun-bottom ul li:hover .zixun-bottom-graph{
+    background: #13279f;
+}
+.zixun-bottom-graph span{
+    font-size: 18px;
+    line-height: 42px;
+    color: #515151;
+}
+.zixun-bottom ul li h4{
+    font-size: 12px;
+    line-height: 12px;
+    margin-bottom: 10px;
+}
+.zixun-bottom ul li p{
+    font-size: 11px;
+    line-height: 11px;
+    color: #636363;
+}

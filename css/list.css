@@ -1,0 +1,205 @@
+
+.listmain{
+    border-top: 1px solid #cccccc;
+}
+
+.listmain-content{
+    width: 1365px;
+    margin: 0 auto;
+}
+.listmain-top{
+    height: 66px;
+    font-size: 15px;
+    line-height: 66px;
+}
+.listmain-bottom{
+    overflow: hidden;
+}
+.listmain-bottom-left{
+    width: 280px;
+    margin-right: 60px;
+}
+
+.listmain-bottom-left-theme{
+    width: 100%;
+    height: 50px;
+    background: #e0e0e0;
+    padding-left: 30px;
+    box-sizing: border-box;
+    font-size: 16px;
+    line-height: 50px;
+    font-weight: bolder;
+}
+.listmain-bottom-left-out{
+    background: #f2f2f2;
+    padding: 0 10px 20px 10px;
+    box-sizing: border-box;
+}
+
+.listmain-bottom-left-oneinside{
+    width: 260px;
+    background: #ffffff;
+    padding-left: 18px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.listmain-bottom-left-oneinside dt{
+    line-height: 41px;
+    margin-bottom: 11px;
+   font-size: 15px;
+   font-weight: bolder;
+   
+}
+.listmain-bottom-left-oneinside dt a{
+    color: #1428b4;
+}
+.listmain-bottom-left-oneinside dd{
+    margin-bottom: 36px;
+    font-size: 15px;
+    line-height: 15px;
+    margin-left: 30px;
+}
+.listmain-bottom-left-out ul{
+    width: 260px;
+    background: #ffffff;
+    padding-left: 18px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.listmain-bottom-left-twoinside li{
+    height: 40px;
+    line-height: 40px;
+    font-size: 15px;
+
+}
+.listmain-bottom-left-twoinside li span{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    border: 1px solid #cccccc;
+    box-sizing: border-box;
+    border-radius: 2px;
+    margin-right: 8px;
+    
+}
+.listmain-bottom-left-threeinside li{
+    width: 30px;height: 30px;
+    box-sizing: border-box;
+    border: 1px solid #cccccc;
+    margin-right: 18px;
+    margin-top: 18px;
+    margin-bottom: 18px;
+}
+.listmain-bottom-right{
+    width: 1024px;
+
+}
+
+.listmain-bottom-right-top{
+    height: 50px;
+}
+.listmain-bottom-right-top-div1{
+line-height: 46px;
+font-size: 24px;
+}
+.listmain-bottom-right-top-div2{
+    font-size: 15px;
+    margin-top: 10px;
+}
+.listmain-bottom-right-top-div2 div{
+    line-height: 41px;
+margin-right: 10px;
+}
+.listmain-bottom-right-top-div2 ul{
+    width: 225px;
+    height: 41px;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.listmain-bottom-right-top-div2 ul li{
+    padding: 0 17px 0 17px;
+    box-sizing: border-box;
+    line-height: 41px;
+    border-right: 1px solid #cccccc;
+}
+.listmain-bottom-right-top-div2 ul li:last-child{
+    border-right: none;
+}
+.listmain-bottom-right-ul{
+    display: grid;
+    width: 1024px;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-bottom: 70px;
+ 
+}
+.listmain-bottom-right-ul li{
+    /* width: 346px; */
+    margin-top: 56px;
+    position: relative;
+    text-align: center;  
+}
+.listmain-big{
+    display: block; 
+    height: 290px;
+    width: 100%;
+
+    box-sizing: border-box;
+   
+    /* display: flex;
+    justify-content:center;
+    align-content: center; */
+}
+.listmain-big img{
+    width: 268px;
+    margin: 0 auto
+}
+.listmain-color{
+    padding: 17px 0 17px 0 ;
+    box-sizing: border-box;
+}
+.listmain-color a{
+    display: inline-block;
+    width: 22px;
+    height: 22px;
+    border: 1px solid red;
+    margin-right: 9px;
+}
+.listmain-color a:nth-last-child(1){
+    margin-right: 0px;
+}
+.listmain-con{
+    line-height: 22px;
+    font-size: 16px;
+    width: 272px;
+    margin: 0 auto;
+}
+.listmain-con:hover a{
+    color: #1428b4;
+    
+}
+.listmain-price{
+    line-height: 36px;
+    font-size: 14px;
+   
+}
+.listmain-pricenew{
+    color: red;
+}
+.listmain-oldprice{
+    font-size: 10px;
+    color: #666666;
+    text-decoration: line-through;
+    margin-left: 20px;
+}
+.listyouhui{
+    position: absolute;
+    top: 0; 
+    left: 0;
+}
+/* 大图片的a高度290px
+颜色盒子22px 上下17px
+p1标签行高22px 大小16px
+p2 大小14 行高 36px
+*/

@@ -1,0 +1,122 @@
+{
+    "peijian":{
+        "left":{
+            "title":"配件",
+            "onelist":[
+                {"href":"","con":"保护类"},
+                {"href":"","con": "电源类"},
+                {"href":"","con": "音频类"},
+                {"href":"","con": "存储类"},
+                {"href":"","con": "连接类"}],
+            "price":["89元以下","90-199元","200-299元","300-399元","400-499元","500-1099元","1100-1699元","2400-3899元","6700以上"],
+            "color":["#000000","#ffffff","#0f5eb9","#3fb0b0c","#2bb5a5","#dbdbdb","#ffc6f4","#a331bf","#777777","#e1dec4","#ffffff","#5f4b41","#e17e00","#ffec14"]
+    
+    
+        },
+        "right":[
+            {  "href":"",
+                "src":["../images/list/list-1.jpg",""],
+                "color":["#111111","#100000"],
+                "con":"无线充电移动电源",
+                "price":"￥299.00",
+                "oldprice":"",
+                "youhui":"../images/main/kongbai.gif"
+
+            },
+            { "href":"",
+                "src":["../images/list/list-2.jpg"],
+                "color":["#ffffff","#2bb5a5","#777777"],
+                "con":"双向加速充电移动电源10000毫安",
+                "price":"￥149.00",
+                "oldprice":"",
+                "youhui":"../images/main/kongbai.gif"
+
+            },
+            { "href":"",
+                "src":["../images/list/list-3.jpg"],
+                "color":["#ffffff","#2bb5a5","#777777"],
+                "con":"双项无线充电底座2019",
+                "price":"￥666.00",
+                "oldprice":"",
+                "youhui":"../images/main/youhui.gif"
+
+            },
+            { "href":"",
+                "src":["../images/list/list-4.jpg"],
+                "color":["#ffffff","#2bb5a5","#777777"],
+                "con":"Level in ANC 降噪耳机",
+                "price":"￥398.00",
+                "oldprice":"",
+                "youhui":"../images/main/kongbai.gif"
+
+            },
+            { "href":"",
+                "src":["../images/list/list-5.jpg"],
+                "color":["#e17e00","#e1dec4"],
+                "con":"三星 旅行 充电器 Mircro USB",
+                "price":"￥89.00",
+                "oldprice":"￥99.00",
+                "youhui":"../images/main/kongbai.gif"
+
+            },
+            { "href":"",
+                "src":["../images/list/list-6.jpg"],
+                "color":["#111111","#5f4b41","#e17e00","#dbdbdb"],
+                "con":"三星 旅行 充电器 TyPE C",
+                "price":"￥108.00",
+                "oldprice":"",
+                "youhui":"../images/main/kongbai.gif"
+
+            },
+            { "href":"",
+                "src":["../images/list/list-7.jpg"],
+                "color":["#100000","#ffffff"],
+                "con":"智能投屏转换线",
+                "price":"￥258.00",
+                "oldprice":"",
+                "youhui":"../images/main/kongbai.gif"
+
+            },
+            { "href":"",
+                "src":["../images/list/list-8.jpg"],
+                "color":["#100000","#ffffff"],
+                "con":"AKG N5005 参考5单元入耳式耳机",
+                "price":"￥8999.00",
+                "oldprice":"",
+                "youhui":"../images/main/kongbai.gif"
+
+            },
+            { "href":"",
+                "src":["../images/list/list-9.jpg"],
+                "color":["#100000","#ffffff"],
+                "con":"AKG N200BT 入耳式无线蓝牙运动耳机",
+                "price":"￥999.00",
+                "oldprice":"",
+                "youhui":"../images/main/kongbai.gif"
+
+            },
+            { "href":"",
+                "src":["../images/list/list-10.jpg"],
+                "color":["#100000","#ffffff"],
+                "con":"AKG N200BT 颈挂式无线蓝牙耳机",
+                "price":"￥699.00",
+                "oldprice":"",
+                "youhui":"../images/main/kongbai.gif"
+
+            },
+            { "href":"",
+                "src":["../images/list/list-11.jpg"],
+                "color":["#100000","#ffffff"],
+                "con":"AKG N700NC 头戴式无线蓝牙降噪耳机",
+                "price":"￥2999.00",
+                "oldprice":"",
+                "youhui":"../images/main/kongbai.gif"
+
+            }
+
+        ]
+
+
+       
+    }
+}

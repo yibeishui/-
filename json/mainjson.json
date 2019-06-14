@@ -1,0 +1,270 @@
+{
+    "mainNav1":[
+        {
+            "src":"../images/main/main-nav1-1.jpg",
+            "pp":"Galaxy S10+ 镜面保护套",
+            "price":"￥428.00",
+            "prefer":"../images/main/kongbai.gif"
+        },
+        {
+            "src":"../images/main/main-nav1-2.jpg",
+            "pp":"Galaxy S10+ 硅胶保护壳",
+            "price":"￥199.00",
+            "prefer":"../images/main/kongbai.gif"
+        },
+        {
+            "src":"../images/main/main-nav1-3.jpg",
+            "pp":"Galaxy S10 镜面保护套",
+            "price":"￥428.00",
+            "prefer":"../images/main/kongbai.gif"
+        
+        },
+        {
+            "src":"../images/main/main-nav1-4.jpg",
+            "pp":"Galaxy S10 LED智能背光保护壳",
+            "price":"￥398.00",
+            "prefer":"../images/main/kongbai.gif"
+        },
+        {
+            "src":"../images/main/main-nav1-5.jpg",
+            "pp":"AKG Y100BT 颈挂式无线蓝牙耳机",
+            "price":"￥699.00",
+            "prefer":"../images/main/kongbai.gif"
+        },
+        {
+            "src":"../images/main/main-nav1-6.jpg",
+            "pp":"AKG N200BT运动耳机 入耳式无线蓝牙 ",
+            "price":"￥999.00",
+            "prefer":"../images/main/kongbai.gif"
+        },
+        {
+            "src":"../images/main/main-nav1-7.jpg",
+            "pp":"AKG Y500BT 贴耳式无线蓝牙耳机",
+            "price":"￥1922.00",
+            "prefer":"../images/main/kongbai.gif"
+        },
+        {
+            "src":"../images/main/main-nav1-8.jpg",
+            "pp":"入耳式耳机",
+            "price":"￥79.00",
+            "prefer":"../images/main/kongbai.gif"
+        },
+        {
+            "src":"../images/main/main-nav1-9.jpg",
+            "pp":"双项无线充电底座",
+            "price":"￥608.00",
+            "prefer":"../images/main/xinpin.gif"
+        },
+        {
+            "src":"../images/main/main-nav1-10.jpg",
+            "pp":"立式加速无线充电线2018",
+            "price":"￥408.00",
+            "prefer":"../images/main/kongbai.gif"
+        },
+        {
+            "src":"../images/main/main-nav1-11.jpg",
+            "pp":"三星 旅行充电器 Type C",
+            "price":"￥108.00",
+            "prefer":"../images/main/kongbai.gif"
+        },
+        {
+            "src":"../images/main/main-nav1-12.jpg",
+            "pp":"无线充电移动电源",
+            "price":"￥299.00",
+            "prefer":"../images/main/kongbai.gif"
+        }
+    ],
+    "mainNav2":[
+
+        {
+            "src":"../images/main/main4-1.jpg",
+            "pp":"Galaxy S10+",
+            "aa":"至高优惠300元 享24期免息",
+            "price":"￥6999.00",
+            "oldprice":"",
+            "prefer":"../images/main/lijian.gif"
+        },
+        {
+            "src":"../images/main/main4-2.jpg",
+            "pp":"Galaxy A60",
+            "aa":"新品上市 火爆抢购",
+            "price":"￥1499.00",
+            "oldprice":"",
+            "prefer":"../images/main/xinpin.gif"
+        },
+        {
+            "src":"../images/main/main4-3.jpg",
+            "pp":"Galaxy S9+ 128GB版本",
+            "aa":"优惠2200元 享6期免息分期",
+            "price":"￥4299.00",
+            "oldprice":"￥6499.00",
+            "prefer":"../images/main/zhijiang.gif"
+
+        },
+        {
+            "src":"../images/main/main4-4.jpg",
+            "pp":"Galaxy S8",
+            "aa":"下单优惠1400元 享3期免息",
+            "price":"￥2599.00",
+            "oldprice":"￥3999.00",
+            "prefer":"../images/main/lijian.gif"
+
+        }
+    ],
+    "mainNav3":[
+        {
+            "src":"../images/main/main6-1.jpg",
+            "pp":"Galaxy S10 521GB版本",
+            "aa":"优惠700元 享24期免息",
+            "price":"￥7699.00",
+            "oldprice":" ",
+            "prefer":"../images/main/lijian.gif"
+
+        },
+        {
+            "src":"../images/main/main6-2.jpg",
+            "pp":"Galaxy Note9",
+            "aa":"至高优惠2800元 享6期免息",
+            "price":"￥5199.00",
+            "oldprice":"￥6999.00",
+            "prefer":"../images/main/lijian.gif"
+
+        },
+        {
+            "src":"../images/main/main6-3.jpg",
+            "pp":"Galaxy S9 128GB版本",
+            "aa":"优惠2000元 享6期免息分期",
+            "price":"￥3499.00",
+            "oldprice":"￥5499.00",
+            "prefer":"../images/main/lijian.gif"
+
+        },
+        {
+            "src":"../images/main/main6-4.jpg",
+            "pp":"Galaxy A40s",
+            "aa":"新品上市 享6期免息",
+            "price":"￥1499.00",
+            "oldprice":" ",
+            "prefer":"../images/main/xinpin.gif"
+
+        },
+        {
+            "src":"../images/main/main6-5.jpg",
+            "pp":"Samsung Galaxy Buds",
+            "aa":" ",
+            "price":"￥999.00",
+            "oldprice":" ",
+            "prefer":"../images/main/xinpin.gif"
+
+        },
+        {
+            "src":"../images/main/main6-6.jpg",
+            "pp":"Galaxy Watch Active",
+            "aa":" ",
+            "price":"￥1599.00",
+            "oldprice":" ",
+            "prefer":"../images/main/zhijiang.gif"
+
+        },
+        {
+            "src":"../images/main/main6-7.jpg",
+            "pp":"Samsung Galaxy Watch LT E版 46mm钛泽银",
+            "aa":" ",
+            "price":"￥2499.00",
+            "oldprice":" ",
+            "prefer":"../images/main/zhijiang.gif"
+
+        },
+        {
+            "src":"../images/main/main6-8.jpg",
+            "pp":"Samsung Galaxy Watch 蓝牙版42mm",
+            "aa":" ",
+            "price":"￥2099.00",
+            "oldprice":" ",
+            "prefer":"../images/main/xinpin.gif"
+
+        },
+        {
+            "src":"../images/main/main6-9.jpg",
+            "pp":"Galaxy Tab S4 4G",
+            "aa":" ",
+            "price":"￥5888.00",
+            "oldprice":" ",
+            "prefer":"../images/main/kongbai.gif"
+
+        },
+        {
+            "src":"../images/main/main6-10.jpg",
+            "pp":"Galaxy Tab S3 9.7 4G",
+            "aa":" ",
+            "price":"￥5799.00",
+            "oldprice":" ",
+            "prefer":"../images/main/kongbai.gif"
+
+
+        },
+        {
+            "src":"../images/main/main6-11.jpg",
+            "pp":"Galaxy Tab E",
+            "aa":" ",
+            "price":"￥699.00",
+            "oldprice":"￥1199.00",
+            "prefer":"../images/main/kongbai.gif"
+
+
+        },
+        {
+            "src":"../images/main/main6-12.jpg",
+            "pp":"Galaxy Tab A 2017 8.0 WLAN",
+            "aa":" ",
+            "price":"￥999.00",
+            "oldprice":"￥1999.00",
+            "prefer":"../images/main/kongbai.gif"
+
+
+        },       
+         {
+            "src":"../images/main/main6-13.jpg",
+            "pp":"三星星曜Pen 930MBE-K01",
+            "aa":" ",
+            "price":"￥7899.00",
+            "oldprice":"￥7999.00",
+            "prefer":"../images/main/kongbai.gif"
+
+
+        },
+        {
+            "src":"../images/main/main6-14.jpg",
+            "pp":"三星玄龙MR+",
+            "aa":" ",
+            "price":"￥4499.00",
+            "oldprice":" ",
+            "prefer":"../images/main/xinpin.gif"
+
+
+        },
+        {
+            "src":"../images/main/main6-15.jpg",
+            "pp":"Notebook 3 35XOAA-X06",
+            "aa":" ",
+            "price":"￥3798.00",
+            "oldprice":"￥4099.00",
+            "prefer":"../images/main/kongbai.gif"
+
+
+        },
+        {
+            "src":"../images/main/main6-16.jpg",
+            "pp":"三星星曜Pen Pro930SBE-K01",
+            "aa":" ",
+            "price":"￥9899.00",
+            "oldprice":"￥9999.00",
+            "prefer":"../images/main/xinpin.gif"
+
+
+        }
+        
+
+
+    ]
+}
