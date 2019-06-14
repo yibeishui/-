@@ -21,7 +21,7 @@ for($i=0;$i<count($data);$i++){
 
     };
 };
-array_push($data , $res)
+array_push($data , $res);
 
 // 
 $handle=fopen($filePath,"w");
