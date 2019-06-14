@@ -28,7 +28,9 @@ var _magnifier = magnifier(magnifierConfig);
 }
 })
 
-
+$(".addcar").click(function(){
+    
+})
 
 // $(".detail-main1-colorlist-ul li").click(function(){
 //     var index=$(this).index();

@@ -5,6 +5,7 @@ $pass=$_REQUEST["pass"];
 $json=file_get_contents("../json/sanxingjson.json");
 
 
+
 $data = json_decode($json,true);
 for($i=0;$i<count($data);$i++){
     if($data[$i]["email"]==$name || $data[$i]["tel"]==$name){
@@ -22,9 +23,6 @@ for($i=0;$i<count($data);$i++){
 
     };
 }
-
-
-
 
 
 

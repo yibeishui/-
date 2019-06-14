@@ -1,0 +1,139 @@
+
+
+
+
+
+body{
+    width: 100%;
+    height: 100%;
+   
+}
+#zhucexinxi{
+    background: #f7f7f7;
+    overflow: hidden;
+}
+.zhucexinxi-main{
+    height: 806px;
+}
+.content{
+    width: 750px;
+    margin: 50px auto;
+
+}
+.content h3
+{
+    font-size: 20px;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+.zhucexinxi-con{
+height: 644px;
+background: #ffffff;
+padding: 60px;
+box-sizing: border-box;
+border: 1px solid #d9d9d9;
+border-radius: 8px;
+margin-bottom: 70px;
+}
+.zhucexinxi-con h2{
+font-size: 22px;
+line-height: 22px;
+margin-bottom: 10px;
+}
+.zhucexinxi-p{
+    font-size: 14px;
+    line-height: 14px;
+}
+.zhucexinxi-input{
+    height: 84px;
+position: relative;
+    border-bottom: 1px solid #cccccc;
+}
+.zhucexinxi-input input{
+height: 50px;
+position: absolute;
+left: 0;
+bottom: 0;
+font-size: 22px;
+line-height: 50px;
+width: 100%;
+}
+label{
+    color: #cccccc;
+    font-size: 22px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 50px;
+    z-index: 99999;
+}
+.zhucexinxi-sfz-tishi{
+    height: 15px;
+    font-size: 13px;
+    line-height: 15px;
+    margin-bottom: 80px;
+    color: red;
+}
+.zhucexinxi-btn{
+    width: 180px;
+    height: 50px;
+    background: #a0a8d8;
+    margin-bottom: 54px;
+    border-radius: 8px;
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 50px;
+    text-align: center;
+
+}
+
+.zhucexinxi-p2{
+    font-size: 15px;
+    line-height: 15px;
+    margin-bottom: 7px;
+
+}
+.zhucexinxi-con a{
+    font-size: 16px;
+    line-height: 16px;
+    color: #1428a0;
+    text-decoration: underline;
+}
+
+
+.zhucexinxi-foot{
+    width: 100%;
+    height: 48px;
+    background: #ebebeb;
+    /* position: absolute;
+    left: 0; */
+   
+    
+}
+
+.zhucexinxi-foot .content{
+    display: flex;
+    justify-content: space-between;
+}
+.zhucexinxi-foot ul{
+    height: 54px;
+    display: flex;
+    align-items: center;
+
+}
+.zhucexinxi-foot ul li{
+    padding: 0 8px 0 8px;
+    border-right: 1px solid #cccccc;
+}
+.zhucexinxi-foot ul a{
+    font-size: 13px;
+    line-height: 13px;
+    color: #1428a0;
+}
+.zhucexinxi-foot ul li:nth-last-child(1){
+    border-right:none;
+}
+.zhucexinxi-foot span{
+    font-size: 13px;
+    line-height: 54px;
+}

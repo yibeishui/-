@@ -1,0 +1,189 @@
+/* #gouwuche{
+    display: flex;
+    flex-direction: column;
+}
+.gouwuche-main{
+    flex: 1;
+} */
+.gouwuche-main .content{
+    width: 1280px;
+ 
+    
+}
+.gouwuche-dl{
+    height: 68px;
+    padding-top: 14px;
+    box-sizing: border-box;
+    border-bottom: 1px solid #cccccc;
+}
+.gouwuche-dl-dl{
+    display: inline-block;
+    width: 130px;
+    height: 48px;
+    border: 1px solid #000000;
+    text-align: center;
+    line-height: 48px;
+    border-radius: 15px;
+    margin-left: 30px;
+    font-size: 12px;
+}
+.gouwuche-dl span:nth-child(1){
+    display: inline-block;
+    border: 1px solid #000000;
+    border-radius: 50%;
+    width: 28px;height: 28px;
+    margin-right: 10px;
+    text-align: center;
+    line-height: 28px;
+    font-size: 15px;
+    font-weight: bolder;
+}
+.gouwuche-dl span:nth-child(2){
+    font-size: 16px;
+    line-height: 28px;
+}
+.gouwuche-case{
+    height: 160px;
+    display: flex;
+    padding-top: 40px;
+    box-sizing: border-box;
+    justify-content: space-around;
+}
+
+.gouwuche-case-plan{
+  width: 35px;
+  height: 35px;
+  display: inline-block;
+  background: #cccccc;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 35px;
+}
+
+
+.gouwuche-list h2{
+    line-height: 45px;
+    font-size: 25px;
+}
+
+.gouwuche-con-top{
+    height: 54px;
+
+    background: #cccccc;
+    padding: 0 20px 0 20px;
+    box-sizing: border-box;
+}
+.gouwuche-con-top li{
+    line-height: 54px;
+}
+
+.gouwuche-con-list{
+    height: 140px;
+    padding: 20px;
+    box-sizing: border-box;
+    border-bottom: 1px solid #f1f1f1;
+}
+ input[type="checkbox"]{
+   width: 20px;
+   height: 20px;
+}
+.gouwuche-con ul li:nth-child(1){
+    width: 40px;
+} 
+.gouwuche-con ul li:nth-child(2){
+    width: 116px;
+} 
+.gouwuche-con ul li:nth-child(3){
+    width: 255px;
+}    
+.gouwuche-con ul li:nth-child(4){
+    width: 160px;
+    text-align: center;
+}    
+.gouwuche-con ul li:nth-child(5){
+    width: 200px;
+    text-align: center;
+}  
+.gouwuche-con ul li:nth-child(6){
+    width: 238px;
+    text-align: center;
+}  
+.gouwuche-con ul li:nth-child(7){
+    width: 194px;
+    text-align:right;
+}  
+
+.gouwuche-remove{
+    display: inline-block;
+    width: 22px;
+    height: 22px;
+    border: 1px solid #cccccc;
+}
+.gouwuche-add{
+    display: inline-block;
+    width: 22px;
+    height: 22px;
+    border: 1px solid #cccccc;
+}
+.gouwuche-number{
+    display: inline-block;
+    width: 30px;
+    height: 22px;
+    border: 1px solid #cccccc;
+}
+
+.gouwuche-shuliang{
+    margin-bottom: 10px;
+}
+.gouwuche-clear{
+    font-size:12px;
+    line-height: 12px;
+    text-decoration: underline; 
+}
+.gouwuche-price{
+    height: 106px;
+    padding-top: 28px;
+    box-sizing: border-box;
+}
+.gouwuche-price .icon-wuliuqiache2{
+    margin-right: 13px;
+    font-size: 18px;
+}
+.gouwuche-price>div>p{
+    width:168px ;
+    height: 22px;
+
+}
+/*  */
+.gouwuche-price-all{
+    font-size: 13px;
+line-height: 22px;
+ }
+.gouwuche-price-allnumber{
+    font-size: 19px;
+    line-height: 22px;
+    color: #1428a0;
+} 
+
+/*  */
+.gouwuche-buy{
+    height: 50px;
+    background: #f2f2f2;
+    margin-bottom: 90px;
+}
+.gouwuche-tobuy{
+    font-size: 16px;
+    line-height: 50px;
+    margin-left: 22px;
+    color: #5b69ba;
+ 
+   
+}
+.gouwuche-toprice{
+   width: 270px; 
+   font-size: 16px;
+    line-height: 50px;
+    background: #1428a0;
+    color: #ffffff;
+    text-align: center;
+}
