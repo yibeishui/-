@@ -29,7 +29,30 @@ var _magnifier = magnifier(magnifierConfig);
 })
 
 $(".addcar").click(function(){
+    var data =JSON.parse(localStorage.getItem("data"))||[];
+    var price=($(".detail-main1-pricelist-whatm").html()).slice(1);
+    var goods=$(".detail-main1-type-con-name").html();
     
+    var json={
+        "price":price,
+        "goods":goods
+    }
+    console.log(data);
+    
+    data.push(json)
+    console.log(data);
+    
+    var ojson=JSON.stringify(data);
+    console.log(ojson);
+    
+    
+   localStorage.setItem("data",ojson);
+
+   
+
+
+
+
 })
 
 // $(".detail-main1-colorlist-ul li").click(function(){
