@@ -27,23 +27,38 @@ var _magnifier = magnifier(magnifierConfig);
 
 }
 })
-
+var data =JSON.parse(localStorage.getItem("data"))||[];
 $(".addcar").click(function(){
-    var data =JSON.parse(localStorage.getItem("data"))||[];
+       
     var price=($(".detail-main1-pricelist-whatm").html()).slice(1);
     var goods=$(".detail-main1-type-con-name").html();
-    
-    var json={
-        "price":price,
-        "goods":goods
+    if(data.length!=0){
+        for(var i=0; i<data.length;i++){
+            if(data[i].goods==goods){
+                data[i].number+=1;
+               
+              
+                
+            }
+        }
+
+    }else{
+  
+        var json={
+            "price":price,
+            "goods":goods,
+            "number":1
+        }
+        data.push(json)
     }
-    console.log(data);
+
+
     
-    data.push(json)
-    console.log(data);
+
+   
     
     var ojson=JSON.stringify(data);
-    console.log(ojson);
+
     
     
    localStorage.setItem("data",ojson);

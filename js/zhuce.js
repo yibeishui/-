@@ -27,7 +27,10 @@ $(function () {
   })
 
   $(".zc-ty").click(function () {
+
+    
     if (ok.eq(0).prop("checked") && ok.eq(1).prop("checked") && ok.eq(2).prop("checked") && ok.eq(3).prop("checked")) {
+    window.location.href="http://localhost/stu/html/zhucexinxi.html";
 
     }
   })
