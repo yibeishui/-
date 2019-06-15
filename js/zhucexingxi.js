@@ -86,6 +86,8 @@ $(".zhucexinxi-btn").click(function(){
                 },
                 url:"../php/zhuce.php",
                 success:function(res){
+                 
+                    
                     if(res=="符合"){
                         window.location.href="http://localhost/stu/html/zhuce-add.html"
                     }else{

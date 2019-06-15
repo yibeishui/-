@@ -60,7 +60,7 @@ car.on("click",".gouwuche-remove",function(){
         if(data[i].goods==test){
             data[i].number-=1;
             if(data[i].number<=0){
-                data.splice(i,1)
+                data[i].number=1;
             }
      
             ul();
@@ -94,7 +94,9 @@ car.on("click",".gouwuche-clear",function(e){
         }
     }
 })
-
+$(".gouwuche-dl-dl").click(function(){
+    window.location.href="http://localhost/stu/html/denglu.html"
+})
 
 
 

@@ -1,9 +1,10 @@
 <?php
 
 header("Content-Type:text/html;charset=UTF-8");
-$name=$_REQUEST["name"];
-$id=$_REQUEST["ID"];
-$lastname=$_REQUEST["lastname"];
+
+$tel=$_REQUEST["tel"];
+$email=$_REQUEST["email"];
+$pass=$_REQUEST["pass"];
 $filePath="../json/sanxingjson.json";
 // 
 $content = fread(fopen($filePath,"r"),filesize($filePath));
@@ -11,9 +12,9 @@ $content = fread(fopen($filePath,"r"),filesize($filePath));
 $data = json_decode($content,true);
 
 for($i=0;$i<count($data);$i++){
-    if($data[$i]["id"]!=$id){
+    if($data[$i]["email"]!=$email || $data[$i]["tel"]!=$tel){
     echo "未注册";
-    $res=array("name"=>$name,"id"=>$id,"lastname"=>$lastname);
+    $res=array("email"=>$email,"tel"=>$tel,"pass"=>$pass);
     break;
     }else{
     echo "已注册";

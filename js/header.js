@@ -107,7 +107,7 @@ $(function () {
 
     })
     $(".denglu").click(function(){
-        
+        window.location.href="http://localhost/stu/html/denglu.html"
     })
 
 
