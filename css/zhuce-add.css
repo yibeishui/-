@@ -43,12 +43,16 @@ margin-bottom: 70px;
     border: 1px solid blue;
 }
 .zhuceadd-emortel span{
-    display: inline-block;
+display: inline-block;
 width: 50%;
 line-height: 85px;
 font-size: 22px;
 text-align: center;
 color: #767676;
+}
+.zhuceadd-emortel .zhuceadd-emortel-span{
+    border-bottom:2px solid #1428a0;
+    color: #1428a0;
 }
 .zhuceadd-xingxi{
     position: relative;

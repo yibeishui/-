@@ -1,12 +1,12 @@
 $(function(){
    
     var data =JSON.parse(localStorage.getItem("data"));
- 
+ //gai
     
-    var gwc=$(".gouwuche-con");
+    var gwc=$(".gouwuche-con-lists");
     function ul(){
         var res=""
-        // gwc.empty();
+         gwc.empty();
        
        
         for(var i=0; i<data.length;i++){

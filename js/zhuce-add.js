@@ -15,8 +15,14 @@ $(function () {
         }, 300)
 
     })
+$(".zhuceadd-emortel span").click(function(){
+    $(this).addClass("zhuceadd-emortel-span").siblings().removeClass("zhuceadd-emortel-span")
+})
 
-    $(".zhuce-add-inputt").blur(function () {
+
+
+
+    $(".zhuce-add-input").blur(function () {
         var result = $(this).val();
         x = $.trim(result);
         if (x == "") {
@@ -38,6 +44,7 @@ $(function () {
     var pass = false;
     var anquan = false;
     var tele=false;
+    var twopas=false;
     var tel =/^1[3456789]\d{9}$/
     var emil = /^([0-9A-Za-z\-_\.]+)@([0-9a-z]+\.[a-z]{2,3}(\.[a-z]{2})?)$/g;
 
@@ -56,6 +63,7 @@ $(function () {
 
 
     $(".next").click(function () {
+        $(this).css("background","blue")
         var em = $.trim($("#email").val());
         var tell = $.trim($("#tel").val());
         var pas = $.trim($("#pass").val());
@@ -100,17 +108,23 @@ $(function () {
             pass = false;
             $(".zhuceadd-lab").eq(2).html("请输入密码")
         }
-
+        if(twopass!=""){
+            if(twopass==pas){
+              twopas=true;
+            }
+        }else{
+            twopas=false;
+        }
 
         if(aq!= ""){
             if(aq==oo){
                 aq=true
             }else{
                 eq=false;
-              $(".zhuceadd-lab").eq(3).html("安全码不正确")
+              $(".zhuceadd-lab").eq(4).html("安全码不正确")
             }
         }else{
-            $(".zhuceadd-lab").eq(3).html("请输入安全码")
+            $(".zhuceadd-lab").eq(4).html("请输入安全码")
         }
         // console.log(aq);
         // console.log(oo);
@@ -118,7 +132,7 @@ $(function () {
         
 // console.log(aq==oo);
 
-if(user&&pass&&aq&&tele){
+if(user&&pass&&aq&&tele&&twopas){
     $.get({
         data: {
            email:emil,
@@ -129,6 +143,7 @@ if(user&&pass&&aq&&tele){
         url: "../php/zhuce-add.php",
         success: function (res) {
             var res = res;
+           console.log(res);
            
             if(res=="未注册"){
           window.location.href="http://localhost/stu/html/main.html"
