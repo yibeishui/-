@@ -136,14 +136,14 @@ if(user&&pass&&aq&&tele&&twopas){
     $.get({
         data: {
            email:emil,
-           tel:tel,
-           pass:pass
+           tel:tell,
+           pass:pas
             
         },
         url: "../php/zhuce-add.php",
         success: function (res) {
             var res = res;
-           console.log(res);
+        //    console.log(res);
            
             if(res=="未注册"){
           window.location.href="http://localhost/stu/html/main.html"
